@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practik_work_10_Starov.task5
+namespace Practik_work_13_Starov.task5
 {
     internal class Animals
     {

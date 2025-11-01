@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practik_work_10_Starov.task2
+namespace Practik_work_13_Starov.task2
 {
     internal class BankAccount
     {

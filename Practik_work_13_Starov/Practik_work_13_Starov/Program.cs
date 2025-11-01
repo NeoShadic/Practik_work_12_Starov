@@ -1,15 +1,15 @@
-﻿using Practik_work_10_Starov.task1;
-using Practik_work_10_Starov.task2;
-using Practik_work_10_Starov.task3;
-using Practik_work_10_Starov.task4;
-using Practik_work_10_Starov.task5;
+﻿using Practik_work_13_Starov.task1;
+using Practik_work_13_Starov.task2;
+using Practik_work_13_Starov.task3;
+using Practik_work_13_Starov.task4;
+using Practik_work_13_Starov.task5;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practik_work_12_Starov
+namespace Practik_work_13_Starov
 {
     internal class Program
     {

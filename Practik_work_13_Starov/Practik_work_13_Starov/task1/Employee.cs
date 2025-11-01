@@ -5,7 +5,7 @@ using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practik_work_10_Starov.task1
+namespace Practik_work_13_Starov.task1
 {
     internal class Employee
     {
